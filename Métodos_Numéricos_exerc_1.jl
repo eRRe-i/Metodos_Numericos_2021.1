@@ -31,7 +31,7 @@ Professor: Marcelo Zamith. Github: [https://github.com/marzam](https://github.co
 
 # ╔═╡ 6085080e-722c-11eb-01e6-377ec4f0e433
 begin
-	md""" ###### Leandro Bataglia. Github: [https://github.com/eRRe-i](https://github.com/eRRe-i)
+	md""" ###### por Leandro Bataglia. Github: [https://github.com/eRRe-i](https://github.com/eRRe-i)
 	- Versão em notebook e PDF deste material: [github.com/eRRe-i/Metodos\_Numericos\_2021.1](https://github.com/eRRe-i/Metodos_Numericos_2021.1)
 	
 	- Versão em HTML dos exercícios de Métodos Numéricos [aqui](https://erre-i.github.io/Metodos_Numericos_2021.1/)
